@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "PixelCNNx"
+  site-url: "https://Jorgvt.github.io/PixelCNNx"
+  description: "PixelCNN implementation in JAX."
+  repo-branch: main
+  repo-url: "https://github.com/Jorgvt/PixelCNNx"
